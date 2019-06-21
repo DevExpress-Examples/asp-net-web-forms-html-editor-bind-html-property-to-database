@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to bind the Html property to a database field
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e377)**
+<!-- run online end -->
 
 
 <p>This sample demonstrates how to bind the Html property to a database field.</p><p><strong>See Also:</strong><br />
