@@ -7,7 +7,7 @@ This example demonstrates how to add the [ASPxHtmlEditor](https://docs.devexpres
 
 ## Overview
 
-Add the [FormView](https://learn.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.formview?view=netframework-4.8.1) control to the page, bind it to a data source, and specify a particular field to get its data from the data source.
+Add the [FormView](https://learn.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.formview?view=netframework-4.8.1) control to the page, bind it to a data source, and specify a field to get its data from the data source.
 
 Add the [ASPxHtmlEditor](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxHtmlEditor.ASPxHtmlEditor) to the FormView's template and specify the editor's markup - use the [Bind](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms178366(v=vs.100)#using-the-bind-method) method to bind the editor's [Html](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxHtmlEditor.ASPxHtmlEditor.Html) property to the corresponding field in the FormView's data source.
 
