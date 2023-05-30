@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # HTML Editor for ASP.NET Web Forms - How to bind the Html property to a database field
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e377/)**
+**[[Run Online]](https://codecentral.devexpress.com/128544996/)**
 <!-- run online end -->
 
 This example demonstrates how to add the [ASPxHtmlEditor](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxHtmlEditor.ASPxHtmlEditor) to the [FormView](https://learn.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.formview?view=netframework-4.8.1) control's template and use the [Bind](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms178366(v=vs.100)#using-the-bind-method) method to bind the editor's content to the corresponding data source field.
